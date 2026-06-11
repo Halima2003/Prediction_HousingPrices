@@ -38,7 +38,7 @@ def get_forms() -> UserInput:
         Building_Age = st.number_input(
             "Âge du logement (années)",
             min_value=1,
-            max_value=100
+            max_value=99
         )
 
         Garage = st.radio(
