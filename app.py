@@ -19,9 +19,6 @@ pour estimer le prix d'un bien immobilier à Londres en fonction
 de ses caractéristiques.
 """)
 
-# ==========================
-# Modèles disponibles
-# ==========================
 
 RIDGE = "Ridge"
 RANDOM_FOREST = "Random Forest"
