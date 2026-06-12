@@ -228,7 +228,7 @@ L'application :
 ---
 
 # 👩‍💻 Auteur
-Halima KADDAR 
-Sara KHALLOUD 
-Ikram ELFAHLI
-Etudiantes en M2 Ingénierie des Données et Evaluations Econométriques à L'Université d'Angers.
+- Halima KADDAR 
+- Sara KHALLOUD 
+- Ikram ELFAHLI
+- Etudiantes en M2 Ingénierie des Données et Evaluations Econométriques à L'Université d'Angers.
