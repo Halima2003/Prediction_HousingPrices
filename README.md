@@ -182,15 +182,8 @@ models/
 # 💻 Lancer l'application Streamlit
 
 ```bash
-streamlit run app.py
+uv run streamlit run app.py 
 ```
-
-Puis ouvrir :
-
-```text
-http://localhost:8501
-```
-
 ---
 
 # 🏠 Fonctionnement de l'application
@@ -225,6 +218,7 @@ L'application :
 # 🛠️ Technologies utilisées
 
 - Python
+- Uv
 - Pandas
 - NumPy
 - Scikit-Learn
