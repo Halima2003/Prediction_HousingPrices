@@ -164,6 +164,19 @@ Avantages :
 Le modèle **Gradient Boosting** est celui qui obtient les meilleures performances sur l'ensemble de test.
 
 ---
+# Installation
+
+## Cloner le projet
+
+git clone https://github.com/ton-compte/Prediction_HousingPrices.git
+
+## Accéder au dossier
+
+cd Prediction_HousingPrices
+
+## Installer les dépendances
+
+uv sync
 
 # 🚀 Lancer l'entraînement
 
@@ -180,6 +193,7 @@ models/
 ---
 
 # 💻 Lancer l'application Streamlit
+
 
 ```bash
 uv run streamlit run app.py 
